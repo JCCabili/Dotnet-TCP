@@ -1,0 +1,10 @@
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\bin\Debug\SC.exe.config
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\bin\Debug\SC.exe
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\bin\Debug\SC.pdb
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.Form1.resources
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.Properties.Resources.resources
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.csproj.CoreCompileInputs.cache
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.exe
+d:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.pdb
+D:\Dell\Documents\Visual Studio 2017\Projects\SC\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
